@@ -1,6 +1,6 @@
 # Simple React Code Editor
 
-Deployed URL - 
+Deployed URL - https://assignment-code-editor.vercel.app/
 
 ## Project Objective
 
