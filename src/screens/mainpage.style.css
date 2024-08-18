@@ -1,0 +1,6 @@
+
+.editor-box {
+    max-width: 500px;
+    max-height: 325px;
+    overflow-y: scroll;
+}

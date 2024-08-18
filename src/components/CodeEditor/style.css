@@ -1,0 +1,46 @@
+.code-box {
+    position: relative;
+    text-align: left;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-size: 12px;
+    background-color: #fafafa;
+  }
+  
+  .textarea {
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+    width: 100%;
+    height: 100%;
+    resize: none;
+    color: inherit;
+    overflow: hidden;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .common-css {
+    margin: 0;
+    border: 0;
+    padding: inherit;
+    background-color: inherit;
+    background: none;
+    box-sizing: inherit;
+    display: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    tab-size: inherit;
+    text-indent: inherit;
+    text-rendering: inherit;
+    text-transform: inherit;
+    white-space: pre-wrap;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+  
