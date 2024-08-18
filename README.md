@@ -37,7 +37,7 @@ Develop a simple web-based code editor using React, with syntax highlighting cap
 2. Navigate to the project's directory:
 
    ```bash
-   cd assignment
+   cd assignment-code-editor
 3. Install dependencies:
    ```bash
    npm install
