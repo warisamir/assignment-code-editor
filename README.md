@@ -33,7 +33,7 @@ Develop a simple web-based code editor using React, with syntax highlighting cap
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/warisamir/assignment-code-editor.git
 2. Navigate to the project's directory:
 
    ```bash
